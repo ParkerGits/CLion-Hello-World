@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Parker/Desktop/SPU CS/2430 Data Structures I/Landon_P CLion Hello World GitHub/CLion-Hello-World/main.cpp
+iostream
+-
+
